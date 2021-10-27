@@ -1,0 +1,154 @@
+{
+	"days": [
+        {
+			"korean": "월요일",
+			"english": "monday"
+		},
+		{
+			"korean": "화요일",
+			"english": "tuesday"
+		},
+		{
+			"korean": "수요일",
+			"english": "wednesday"
+		},
+		{
+			"korean": "목요일",
+			"english": "thursday"
+		},
+		{
+			"korean": "금요일",
+			"english": "friday"
+		},
+		{
+			"korean": "토요일",
+			"english": "saturday"
+		},
+		{
+			"korean": "일요일",
+			"english": "sunday"
+		}
+	],
+	"sino": [
+		{
+			"korean": "일",
+			"english": "1"
+		},
+		{
+			"korean": "이",
+			"english": "2"
+		},
+		{
+			"korean": "삼",
+			"english": "3"
+		},
+		{
+			"korean": "사",
+			"english": "4"
+		},
+		{
+			"korean": "오",
+			"english": "5"
+		},
+		{
+			"korean": "육",
+			"english": "6"
+		},
+		{
+			"korean": "칠",
+			"english": "7"
+		},
+		{
+			"korean": "팔",
+			"english": "8"
+		},
+		{
+			"korean": "구",
+			"english": "9"
+		},
+		{
+			"korean": "십",
+			"english": "10"
+		}
+	],
+	"native": [
+		{
+			"korean": "하나",
+			"english": "1"
+		},
+		{
+			"korean": "둘",
+			"english": "2"
+		},
+		{
+			"korean": "셋",
+			"english": "3"
+		},
+		{
+			"korean": "넷",
+			"english": "4"
+		},
+		{
+			"korean": "다섯",
+			"english": "5"
+		},
+		{
+			"korean": "여섯",
+			"english": "6"
+		},
+		{
+			"korean": "일곱",
+			"english": "7"
+		},
+		{
+			"korean": "여덟",
+			"english": "8"
+		},
+		{
+			"korean": "아홉",
+			"english": "9"
+		},
+		{
+			"korean": "열",
+			"english": "10"
+		}
+	],
+	"sino-tens":[
+		{
+			"korean": "열",
+			"english": "10"
+		},
+		{
+			"korean": "스물",
+			"english": "20"
+		},
+		{
+			"korean": "서른",
+			"english": "30"
+		},
+		{
+			"korean": "마흔",
+			"english": "40"
+		},
+		{
+			"korean": "쉰",
+			"english": "50"
+		},
+		{
+			"korean": "예순",
+			"english": "60"
+		},
+		{
+			"korean": "일흔",
+			"english": "70"
+		},
+		{
+			"korean": "여든",
+			"english": "80"
+		},
+		{
+			"korean": "아흔",
+			"english": "90"
+		}
+	]
+}
